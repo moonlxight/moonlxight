@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Heyo, I just make Discord bots.<br>📑 Trying to improve my Javascript, HTML and CSS.<br>💬 Discord: moonlxight<br>🎮 Steam: TwistyJead ツ
+👋 Heyo, I just make Discord bots.<br>📑 Currently improving Javascript and Python.<br>💬 Discord: moonlxight<br>🎮 Steam: TwistyJead ツ
 
 
 # 💻 Tech Stack:
